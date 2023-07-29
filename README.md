@@ -1,5 +1,5 @@
 
- <img align="center" alt="Coding" width="" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg">
+ <img align="center" alt="Coding" width="" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*b29pJKZqp6Jxb3rd9QlJiw.png">
 <h1 align="center">Hi 👋, I'm Aayush Tyagi</h1>
 <h3 align="center">"Unraveling Insights: A Data Analyst Enthusiast's Journey"</h3>
 
