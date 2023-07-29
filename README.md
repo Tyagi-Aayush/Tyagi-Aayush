@@ -2,10 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Aayush Tyagi</h1>
 <h3 align="center">"Unraveling Insights: A Data Analyst Enthusiast's Journey"</h3>
-(img align="right" alt="Coding" width="400" src="")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 💬 Ask me about **"I'm a data maestro, conducting symphonies of insights with Python's harmonious algorithms, SQL's rhythmic queries, and Excel's orchestral calculations. Visualizing captivating stories through Tableau's artistic canvases and illuminating dashboards with the brilliance of Power BI's melodies!"**
 
