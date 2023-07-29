@@ -1,9 +1,7 @@
 
-
+ <img align="center" alt="Coding" width="" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg">
 <h1 align="center">Hi 👋, I'm Aayush Tyagi</h1>
 <h3 align="center">"Unraveling Insights: A Data Analyst Enthusiast's Journey"</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
 
 
 - 💬 Ask me about **"I'm a data maestro, conducting symphonies of insights with Python's harmonious algorithms, SQL's rhythmic queries, and Excel's orchestral calculations. Visualizing captivating stories through Tableau's artistic canvases and illuminating dashboards with the brilliance of Power BI's melodies!"**
